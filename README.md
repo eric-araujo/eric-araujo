@@ -4,7 +4,14 @@ Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia
 
 Estou focando meus estudos na linguagem <b>PHP</b> e na framework Laravel.
 
-Vou deixar aqui alguns links que eu utilizo para estudar:
-<li><a href="https://www.udemy.com/course/laravel-6-na-pratica/">Laravel 6 na Prática</a></li>
-<li><a href="https://www.php.net/">PHP.NET</a></li>
+Vou deixar aqui alguns links interessantes para estudo:
+<li><a href="https://www.udemy.com/course/laravel-6-na-pratica">Laravel 6 na Prática</a></li>
+<li><a href="https://laravel.com/docs/8.x">Documentação do Laravel</a></li>
+<li><a href="https://www.php.net">Documentação do PHP</a></li>
+
+<b>Canais no Youtube</b>
+<li><a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw">Filipe Deschamps</a></li>
+<li><a href="https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow">Código Fonte</a></li>
+<li><a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Rocketseat</a></li>
+<li><a href="https://www.youtube.com/channel/UChMsGvHD3hMOXD5wkivWhNg">UpInside</a></li>
 
