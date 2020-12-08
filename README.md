@@ -5,7 +5,6 @@ Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia
 Estou focando meus estudos na linguagem <b>PHP</b> e na framework Laravel.
 
 Vou deixar aqui alguns links que eu utilizo para estudar:
-
-:laravel: [!Laravel 6 na Prática(https://www.udemy.com/course/laravel-6-na-pratica/)]
-[PHP.NET(https://www.php.net/)]
+<li><a href="https://www.udemy.com/course/laravel-6-na-pratica/">Laravel 6 na Prática</a></li>
+<li><a href="https://www.php.net/">PHP.NET</a></li>
 
