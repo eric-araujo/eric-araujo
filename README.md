@@ -1,4 +1,4 @@
-Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia em 2016 e estou cursando o último ciclo de analise e desenvolvimento de sistemas, e hoje me identifico como um desenvolvedor FullStack :computer:, gosto de aprender e colocar o conhecimento que adquiri nos cursos, projetos, blogs etc... em prática e além de tudo, gosto de ver algo que estou fazendo criando forma, também curto trabalhar em equipe, encarar desafios e ajudar as pessoas🤝.
+Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia em 2016, sou formado em analise e desenvolvimento de sistemas, e hoje me identifico como um desenvolvedor FullStack :computer:, gosto de aprender e colocar o conhecimento que adquiri nos cursos, projetos, blogs etc... em prática e além de tudo, gosto de ver algo que estou fazendo criando forma, também curto trabalhar em equipe, encarar desafios e ajudar as pessoas🤝.
 
 ### Meus Estudos 👨‍💻
 
@@ -34,5 +34,8 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 <b>Entre em contato comigo:<b><br>
 :e-mail: eric.araujolima@hotmail.com ou eric.125araujo@gmail.com<br>
 💬 [Linkedin](https://www.linkedin.com/in/eric-ara%C3%BAjo-lima-48338615a/)
+ 
+ ### Projeto Privado
+ [A Gente Te Lembra](https://agentetelembra.com.br/) - Desenvolvido com o [Rodrigo Yuri](https://github.com/rodrigoyuri)
 
   
