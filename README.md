@@ -23,10 +23,12 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 - PHP
 - HTML
 - CSS
-- JavaScript
+- Bootstrap
 - SQL
-- Laravel
-- Bootstrap 
+- Mysql
+- PostgreSQL
+- Laravel 
+- JavaScript
 - NodeJs
 - ReactJs
 - React Native
