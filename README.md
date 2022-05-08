@@ -1,8 +1,8 @@
-Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia em 2016, sou formado em analise e desenvolvimento de sistemas, e hoje me identifico como um desenvolvedor FullStack :computer:, gosto de aprender e colocar o conhecimento que adquiri nos cursos, projetos, blogs etc... em prática e além de tudo, gosto de ver algo que estou fazendo criando forma, também curto trabalhar em equipe, encarar desafios e ajudar as pessoas🤝.
+Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia em 2016, sou formado em analise e desenvolvimento de sistemas, e hoje me identifico como um desenvolvedor Full Stack PHP :computer:, gosto de aprender e colocar o conhecimento que adquiri nos cursos, projetos, blogs etc... em prática e além de tudo, gosto de ver algo que estou fazendo criando forma, também curto trabalhar em equipe, encarar desafios e ajudar as pessoas🤝.
 
 ### Meus Estudos 👨‍💻
 
-Estou focando meus estudos na linguagem PHP e no Clean Code.
+Estou focando meus estudos na linguagem PHP, Testes Unitários e no Clean Code.
 
 Vou deixar aqui alguns links interessantes para estudo:
  <li><a href="https://www.udemy.com/course/laravel-6-na-pratica">Laravel 6 na Prática</a></li>
@@ -21,6 +21,7 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 
 - Git
 - PHP
+- PHPUnit
 - HTML
 - CSS
 - Bootstrap
@@ -29,6 +30,7 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 - PostgreSQL
 - Laravel 
 - JavaScript
+- Jquery
 - NodeJs
 - ReactJs
 - React Native
@@ -40,4 +42,6 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
  ### Projeto Privado
  [A Gente Te Lembra](https://agentetelembra.com.br/) - Desenvolvido com o [Rodrigo Yuri](https://github.com/rodrigoyuri)
 
+ ### Packagist
+ [CRUD](https://packagist.org/packages/dbutil/crud) - Projeto para auxiliar na manipulação de informações com o banco de dados
   
