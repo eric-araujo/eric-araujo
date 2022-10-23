@@ -2,7 +2,7 @@ Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia
 
 ### Meus Estudos 👨‍💻
 
-Estou focando meus estudos na linguagem PHP, Testes Unitários e no Clean Code.
+Estou focando meus estudos na linguagem PHP, Docker e Clean Code.
 
 Vou deixar aqui alguns links interessantes para estudo:
  <li><a href="https://www.udemy.com/course/laravel-6-na-pratica">Laravel 6 na Prática</a></li>
