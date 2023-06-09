@@ -2,11 +2,9 @@ Oiiii 👋, tranquilo? prazer me chamo Eric, comecei meus estudos com tecnologia
 
 ### Meus Estudos 👨‍💻
 
-Estou focando meus estudos na linguagem PHP, Docker e Clean Code.
+Estou focando meus estudos na linguagem PHP e Arquitetura e Padrões de Projeto.
 
 Vou deixar aqui alguns links interessantes para estudo:
- <li><a href="https://www.udemy.com/course/laravel-6-na-pratica">Laravel 6 na Prática</a></li>
- <li><a href="https://laravel.com/docs/8.x">Documentação do Laravel</a></li>
  <li><a href="https://www.php.net">Documentação do PHP</a></li>
  <br>
  <b>Canais no Youtube</b>
@@ -21,7 +19,6 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 
 - Git
 - PHP
-- PHPUnit
 - HTML
 - CSS
 - Bootstrap
@@ -31,9 +28,7 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 - Laravel 
 - JavaScript
 - Jquery
-- NodeJs
-- ReactJs
-- React Native
+- Estrutura de Projeto
 
 <b>Entre em contato comigo:<b><br>
 :e-mail: eric.araujolima@hotmail.com ou eric.125araujo@gmail.com<br>
