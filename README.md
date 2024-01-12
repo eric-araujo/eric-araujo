@@ -33,9 +33,6 @@ Caso você precise, posso colaborar com os seguintes conhecimentos:
 <b>Entre em contato comigo:<b><br>
 :e-mail: eric.araujolima@hotmail.com ou eric.125araujo@gmail.com<br>
 💬 [Linkedin](https://www.linkedin.com/in/eric-ara%C3%BAjo-lima-48338615a/)
- 
- ### Projeto Privado
- [A Gente Te Lembra](https://agentetelembra.com.br/) - Desenvolvido com o [Rodrigo Yuri](https://github.com/rodrigoyuri)
 
  ### Packagist
  [CRUD](https://packagist.org/packages/dbutil/crud) - Projeto para auxiliar na manipulação de informações com o banco de dados
