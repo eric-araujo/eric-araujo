@@ -13,7 +13,7 @@ Vou deixar aqui alguns links interessantes para estudo:
  <li><a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw">Filipe Deschamps</a></li>
  <li><a href="https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow">Código Fonte</a></li>
  <li><a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Rocketseat</a></li>
- <li><a href=" https://www.youtube.com/@DiasdeDev">Dias de Dev</a></li>
+ <li><a href="https://www.youtube.com/@DiasdeDev">Dias de Dev</a></li>
 
 ### Colaboração
 
